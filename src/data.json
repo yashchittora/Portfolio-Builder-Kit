@@ -1,0 +1,148 @@
+
+{
+  "showSections": {
+    "education": true,
+    "certifications": true,
+    "experience": true,
+    "projects": true,
+    "skills": true,
+    "contact": true
+  },
+  "profile": {
+    "name": "Yash Chittora",
+    "tagline": "Computer Science Engineer | Linux and Cloud Enthusiast | Flutter Developer",
+    "bio": "I am an Engineer who codes and clicks",
+    "dp": "/dp.png"
+  },
+  "education": [
+    {
+      "college": "Geetanjali Institute of Technical Studies",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "year": "2022 - 2026",
+      "cgpa": "9.0/10.0",
+      "details": "Specialized in App Development and Cloud Operations."
+    },
+    {
+      "college": "Central Board of Secondary Education",
+      "degree": "High School Diploma",
+      "year": "2007 - 2022",
+      "cgpa": "9.5",
+      "details": "Specialization in Science and Mathematics with Computer Science."
+    }
+  ],
+  "experience": [
+    {
+      "company": "ISRO Space Applications Centre",
+      "position": "Intern",
+      "duration": "Jun 2025 - August 2025",
+      "location": "Ahmedabad, India",
+      "description": "Yet to be updated",
+      "achievements": [
+        "Yet to be updated",
+        "Yet to be updated",
+        "Yet to be updated"
+      ]
+    },
+    {
+      "company": "Editors Chamber",
+      "position": "Flutter Developer Intern",
+      "duration": "May 2024 - Sep 2024",
+      "location": "Udaipur, India",
+      "description": "Assisted in the development of scalable cross platform apps and softwares. Contributed to the design and implementation of user interfaces and backend, ensuring a seamless user experience.",
+      "achievements": [
+        
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Red Hat Certified System Administrator",
+      "organization": "Red Hat",
+      "date": "March 2025",
+      "url": "https://www.credly.com/badges/12a55214-aa39-4d18-b80e-1f6a54716f3d/public_url"
+    }
+  ],
+  "projects": [
+  {
+    "title": "Movie Time",
+    "description": "A simple movie discovery and tracking app to organize your movie recommendations with a beautiful and intuitive interface.",
+    "technologies": ["Flutter", "App", "Web"],
+    "github": "https://github.com/yashchittora",
+    "demo": "https://movietime.yashhh.in",
+    "image": "/placeholder.svg"
+  },
+  {
+    "title": "Driver",
+    "description": "A web app to download files directly to your Google Drive — no need to download then upload manually.",
+    "technologies": ["React", "Web", "Cloud"],
+    "github": "",
+    "demo": "https://driver.ddns.net",
+    "image": "/placeholder.svg"
+  },
+  {
+    "title": "Widget Craft",
+    "description": "A collection of beautiful, customizable widgets for your macOS desktop.",
+    "technologies": ["React", "Utility"],
+    "github": "https://github.com/yashchittora/WidgetCraft/archive/refs/heads/main.zip",
+    "demo": "",
+    "image": "/placeholder.svg"
+  },
+  {
+    "title": "Hikari",
+    "description": "A Flutter-based note-taking app that keeps your thoughts organized and stored locally on your device.",
+    "technologies": ["Flutter", "App"],
+    "github": "https://github.com/yashchittora/hikari",
+    "demo": "https://github.com/yashchittora/hikari/releases/download/v1.0.0/Hikari.apk",
+    "image": "/placeholder.svg"
+  },
+  {
+    "title": "Dodo",
+    "description": "A Flutter-based Todo app to help organize your day and boost productivity, with local storage for privacy.",
+    "technologies": ["Flutter", "App"],
+    "github": "https://github.com/yashchittora/Dodo",
+    "demo": "https://github.com/yashchittora/Dodo/releases/download/v1.0.0/Dodo.apk",
+    "image": "/placeholder.svg"
+  },
+  {
+    "title": "GITS-Bot",
+    "description": "An AI-powered chatbot designed for college students to answer questions about college life, courses, and more.",
+    "technologies": ["Flutter", "App", "AI"],
+    "github": "https://github.com/yashchittora/gitsbot",
+    "demo": "https://github.com/yashchittora/gitsbot/releases/download/v1.0.0/GitsBot.apk",
+    "image": "/placeholder.svg"
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "My first portfolio website built with HTML and CSS during 12th grade to showcase projects and skills.",
+    "technologies": ["HTML", "CSS", "Web"],
+    "github": "https://github.com/yashchittora/Personal-Portfolio",
+    "demo": "https://dev.yashhh.in",
+    "image": "/placeholder.svg"
+  }
+],
+  "skills": {
+    "technical": [
+      { "name": "Flutter", "level": 90 },
+      { "name": "Linux", "level": 90 },
+      { "name": "Cloud Computing", "level": 90 },
+      { "name": "System Administration", "level": 90 },
+      { "name": "Python", "level": 80 },
+      { "name": "Java", "level": 75 },
+      { "name": "C++", "level": 75 }
+    ],
+    "soft": [
+      "Problem Solving",
+      "Team Leadership",
+      "Technical Writing",
+      "Project Management",
+      "Design Thinking",
+      "Public Speaking"
+    ]
+  },
+  "contact": {
+    "email": "yashchittora.work@gmail.com",
+    "linkedin": "https://linkedin.com/in/yashchittora",
+    "github": "https://github.com/yashchittora",
+    "resume": "/resume.pdf"
+  }
+}
